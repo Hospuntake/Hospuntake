@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joa</h1>
-<h3 align="center">Computer Science student Passionate about Languages and Programming.</h3>
-
-- 🌱 I’m currently studying **Computer Science**
-
-- 📫 How to reach me **joa2322002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
